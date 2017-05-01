@@ -1,0 +1,15 @@
+J:\Scrub\CSVtoDataset\CSVtoDataset\bin\Release\CSVtoDataset.dll
+J:\Scrub\CSVtoDataset\CSVtoDataset\bin\Release\CSVtoDataset.pdb
+J:\Scrub\CSVtoDataset\CSVtoDataset\obj\Release\ResolveAssemblyReference.cache
+J:\Scrub\CSVtoDataset\CSVtoDataset\obj\Release\CSVtoDataset.dll
+J:\Scrub\CSVtoDataset\CSVtoDataset\obj\Release\CSVtoDataset.pdb
+F:\Scrub\CSVtoDataset\CSVtoDataset\bin\Release\CSVtoDataset.dll
+F:\Scrub\CSVtoDataset\CSVtoDataset\bin\Release\CSVtoDataset.pdb
+F:\Scrub\CSVtoDataset\CSVtoDataset\obj\Release\ResolveAssemblyReference.cache
+F:\Scrub\CSVtoDataset\CSVtoDataset\obj\Release\CSVtoDataset.dll
+F:\Scrub\CSVtoDataset\CSVtoDataset\obj\Release\CSVtoDataset.pdb
+C:\Users\jrounds\Dropbox\Projects\Scrub\CSVtoDataset\CSVtoDataset\bin\Release\CSVtoDataset.dll
+C:\Users\jrounds\Dropbox\Projects\Scrub\CSVtoDataset\CSVtoDataset\bin\Release\CSVtoDataset.pdb
+C:\Users\jrounds\Dropbox\Projects\Scrub\CSVtoDataset\CSVtoDataset\obj\Release\CSVtoDataset.dll
+C:\Users\jrounds\Dropbox\Projects\Scrub\CSVtoDataset\CSVtoDataset\obj\Release\CSVtoDataset.pdb
+C:\Users\jrounds\Dropbox\Projects\Scrub\CSVtoDataset\CSVtoDataset\obj\Release\CSVtoDataset.csprojResolveAssemblyReference.cache

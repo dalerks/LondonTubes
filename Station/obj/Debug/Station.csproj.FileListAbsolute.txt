@@ -1,0 +1,8 @@
+c:\users\jrounds\documents\visual studio 2015\Projects\Station\Station\bin\Debug\Station.exe.config
+c:\users\jrounds\documents\visual studio 2015\Projects\Station\Station\bin\Debug\Station.exe
+c:\users\jrounds\documents\visual studio 2015\Projects\Station\Station\bin\Debug\Station.pdb
+c:\users\jrounds\documents\visual studio 2015\Projects\Station\Station\bin\Debug\CSVtoDataset.dll
+c:\users\jrounds\documents\visual studio 2015\Projects\Station\Station\bin\Debug\CSVtoDataset.pdb
+c:\users\jrounds\documents\visual studio 2015\Projects\Station\Station\obj\Debug\Station.csprojResolveAssemblyReference.cache
+c:\users\jrounds\documents\visual studio 2015\Projects\Station\Station\obj\Debug\Station.exe
+c:\users\jrounds\documents\visual studio 2015\Projects\Station\Station\obj\Debug\Station.pdb
